@@ -1,6 +1,6 @@
 [package]
 name = "screentaker"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Cat"]
 description = "Terminal app for creating screenshots and modifying in the future."
