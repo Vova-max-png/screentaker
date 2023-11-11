@@ -34,11 +34,7 @@
 
 ## Dev logs
 
-* Lib.rs was deleted, created screenshot, ui folders and mod.rs for each.
-* All screenshot logic functions were moved to a struct
-* License was added
-* README.md was rewritten, badges, some text were added
-* Functions print, println, print_only were created
+* A beautiful delay before taking screenshot was added
 
 ## Contributions
 
