@@ -2,9 +2,13 @@
 
 ## About screentaker
 
-## What's a screentaker?
+## What's a Screentaker?
 
 ### Screentaker - terminal utility to create screenshots and edit them in the future versions.
+
+## Why Screentaker?
+
+### For example, if you are working on alpine Linux, you need to take a screenshot and send it to someone or if you need to take a screenshot on your server and then send it. 
 
 ## Installation
 
