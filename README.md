@@ -32,6 +32,14 @@
 
 ### Then press ctrl + n to create a screenshot or ctrl + q to exit. In the future, you will be able to select a zone to take a screenshot, add filters and more.
 
+## Dev logs
+
+* Lib.rs was deleted, created screenshot, ui folders and mod.rs for each.
+* All screenshot logic functions were moved to a struct
+* License was added
+* README.md was rewritten, badges, some text were added
+* Functions print, println, print_only were created
+
 ## Contributions
 
 ### **Issues**, **Ideas** and **Contributions** are [welcome](!)!
