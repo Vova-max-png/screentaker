@@ -6,6 +6,14 @@
 
 ### Screentaker - terminal utility to create screenshots and edit them in the future versions.
 
+## Installation
+
+### Install via cargo:
+
+```bash
+>>> cargo install screentaker
+```
+
 ## Usage
 
 ### Just start it in your terminal:
