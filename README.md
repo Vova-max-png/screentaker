@@ -38,4 +38,4 @@
 
 ## Contributions
 
-### **Issues**, **Ideas** and **Contributions** are [welcome](!)!
+### **Issues**, **Ideas** and **Contributions** are [welcome]()!
