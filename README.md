@@ -8,7 +8,7 @@
 
 ## What's a Screentaker?
 
-### Screentaker - terminal utility to create screenshots and edit them in the future versions.
+### Screentaker - **cross platform** terminal utility to create screenshots and edit them in the future versions.
 
 ## Why Screentaker?
 
