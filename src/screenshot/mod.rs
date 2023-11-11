@@ -39,9 +39,11 @@ impl<'c> Screenshot<'c> {
     }
 
     fn delay(&mut self, millis: u64) {
-        thread::sleep(time::Duration::from_millis(1000));
-        self.ui.print_only(format!("Waiting for {} seconds...", millis/1000).as_str());
-        thread::sleep(time::Duration::from_millis(millis));
+        let secs = millis/1000;
+        for i in 0..=secs {
+            thread::sleep(time::Duration::from_millis(1000));
+            self.ui.print_only(format!("Waiting for {} seconds...", secs-i).as_str());
+        }
     }
     
     fn take_screenshot(&self, path: String) -> String {
