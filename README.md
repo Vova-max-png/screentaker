@@ -1,5 +1,9 @@
 # Screentaker
 
+![version](https://img.shields.io/crates/v/screentaker)
+![lines](https://tokei.rs/b1/github/Vova-max-png/screentaker)
+![license](https://img.shields.io/github/license/Vova-max-png/screentaker?color=blue)
+
 ## About screentaker
 
 ## What's a Screentaker?
